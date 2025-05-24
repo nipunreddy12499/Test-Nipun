@@ -1,0 +1,18 @@
+<table>
+  <thead>
+    <tr>
+      <th>User</th>
+      <th>Tickets</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let user of usersWithTickets">
+      <td>{{ user.name }}</td>
+      <td>
+        <ul>
+          <li *ngFor="let ticket of user.tickets">{{ ticket }}</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>

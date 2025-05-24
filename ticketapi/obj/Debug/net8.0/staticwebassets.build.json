@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kDJx+B+6GbLDSTJyW4tvgZHspkfX5mdP7RD7sXFexgQ=",
+  "Source": "ticketapi",
+  "BasePath": "_content/ticketapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

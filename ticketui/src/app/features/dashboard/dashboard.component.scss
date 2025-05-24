@@ -1,0 +1,129 @@
+.header-section {
+  background: linear-gradient(to right, #4caf50, #00bcd4);
+  padding: 3rem 2rem;
+  text-align: center;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+  box-shadow: 0 2px 20px rgba(0, 0, 0, 0.05);
+}
+.header h1 {
+  font-size: 3.5rem;
+  font-weight: 700;
+  margin: 0;
+  color: #1a1a1a;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.header p {
+  font-size: 1.3rem;
+  font-weight: 400;
+  color: #ffffff;
+  margin-top: 1rem;
+}
+.main-title {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.main-subtitle {
+  font-size: 1.25rem;
+  margin-bottom: 1rem;
+}
+
+.header-line {
+  width: 80%;
+  margin: 0 auto;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.nav-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.nav-btn {
+  font-size: 1.25rem;
+  font-weight: 600;
+  padding: 1rem 2rem;
+  border: none;
+  border-radius: 12px;
+  color: white;
+  cursor: pointer;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15);
+  transition: transform 0.2s ease-in-out;
+}
+
+.nav-btn:hover {
+  transform: scale(1.05);
+}
+
+.green {
+  background-color: #4CAF50;
+}
+
+.blue {
+  background-color: #5C7CFA;
+}
+
+.orange {
+  background-color: #f39c12;
+}
+.dashboard-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 2rem;
+
+  button {
+    padding: 1.2rem 2.5rem;
+    font-size: 1.2rem;
+    font-weight: 600;
+    border: none;
+    border-radius: 12px;
+    color: white;
+    cursor: pointer;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+    &:hover {
+      transform: scale(1.05);
+      box-shadow: 0 10px 20px rgba(0, 0, 0, 0.25);
+    }
+  }
+
+  .summary-btn {
+    background-color: #4CAF50;
+  }
+
+  .projects-btn {
+    background-color: #5C6BC0;
+  }
+
+  .tickets-btn {
+    background-color: #F39C12;
+  }
+}
+
+
+.footer {
+  text-align: center;
+  margin-top: 16rem;
+  padding: 1rem;
+  font-size: 0.9rem;
+  color: #555;
+  background-color: #f3f3f3;
+  border-top: 1px solid #e0e0e0;
+
+  a {
+    color: #5C7CFA;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}

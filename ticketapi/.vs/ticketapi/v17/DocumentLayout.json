@@ -1,0 +1,441 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|c:\\users\\nipun\\downloads\\interview-test-main\\interview-test-main\\ticketapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|c:\\users\\nipun\\downloads\\interview-test-main\\interview-test-main\\ticketapi\\imodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|solutionrelative:imodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|c:\\users\\nipun\\downloads\\interview-test-main\\interview-test-main\\ticketapi\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|solutionrelative:services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|c:\\users\\nipun\\downloads\\interview-test-main\\interview-test-main\\ticketapi\\services\\subtaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|solutionrelative:services\\subtaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|c:\\users\\nipun\\downloads\\interview-test-main\\interview-test-main\\ticketapi\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|solutionrelative:services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|c:\\users\\nipun\\downloads\\interview-test-main\\interview-test-main\\ticketapi\\services\\healthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|solutionrelative:services\\healthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|c:\\users\\nipun\\downloads\\interview-test-main\\interview-test-main\\ticketapi\\modules\\usermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|solutionrelative:modules\\usermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|c:\\users\\nipun\\downloads\\interview-test-main\\interview-test-main\\ticketapi\\modules\\ticketmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|solutionrelative:modules\\ticketmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|c:\\users\\nipun\\downloads\\interview-test-main\\interview-test-main\\ticketapi\\modules\\subtaskmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|solutionrelative:modules\\subtaskmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|c:\\users\\nipun\\downloads\\interview-test-main\\interview-test-main\\ticketapi\\modules\\projectmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|solutionrelative:modules\\projectmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|c:\\users\\nipun\\downloads\\interview-test-main\\interview-test-main\\ticketapi\\modules\\healthmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|solutionrelative:modules\\healthmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|c:\\users\\nipun\\downloads\\interview-test-main\\interview-test-main\\ticketapi\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|c:\\users\\nipun\\downloads\\interview-test-main\\interview-test-main\\ticketapi\\models\\tickettask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|solutionrelative:models\\tickettask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|c:\\users\\nipun\\downloads\\interview-test-main\\interview-test-main\\ticketapi\\models\\ticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|solutionrelative:models\\ticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|c:\\users\\nipun\\downloads\\interview-test-main\\interview-test-main\\ticketapi\\models\\ticketassignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|solutionrelative:models\\ticketassignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|c:\\users\\nipun\\downloads\\interview-test-main\\interview-test-main\\ticketapi\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|solutionrelative:models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|c:\\users\\nipun\\downloads\\interview-test-main\\interview-test-main\\ticketapi\\models\\subtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|solutionrelative:models\\subtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|c:\\users\\nipun\\downloads\\interview-test-main\\interview-test-main\\ticketapi\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|solutionrelative:models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|c:\\users\\nipun\\downloads\\interview-test-main\\interview-test-main\\ticketapi\\models\\assignuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|solutionrelative:models\\assignuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|c:\\users\\nipun\\downloads\\interview-test-main\\interview-test-main\\ticketapi\\data\\ticketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|solutionrelative:data\\ticketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|c:\\users\\nipun\\downloads\\interview-test-main\\interview-test-main\\ticketapi\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|solutionrelative:data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|c:\\users\\nipun\\downloads\\interview-test-main\\interview-test-main\\ticketapi\\ticketapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|solutionrelative:ticketapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|c:\\users\\nipun\\downloads\\interview-test-main\\interview-test-main\\ticketapi\\data\\migrations\\ticketdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|solutionrelative:data\\migrations\\ticketdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|c:\\users\\nipun\\downloads\\interview-test-main\\interview-test-main\\ticketapi\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|c:\\users\\nipun\\downloads\\interview-test-main\\interview-test-main\\ticketapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E1160C37-D0C2-9342-FBF2-51D5C20DF02E}|ticketapi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HealthService.cs",
+              "DocumentMoniker": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Services\\HealthService.cs",
+              "RelativeDocumentMoniker": "Services\\HealthService.cs",
+              "ToolTip": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Services\\HealthService.cs",
+              "RelativeToolTip": "Services\\HealthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T20:52:01.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Services\\ProjectService.cs",
+              "RelativeDocumentMoniker": "Services\\ProjectService.cs",
+              "ToolTip": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Services\\ProjectService.cs",
+              "RelativeToolTip": "Services\\ProjectService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T20:52:10.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubtaskService.cs",
+              "DocumentMoniker": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Services\\SubtaskService.cs",
+              "RelativeDocumentMoniker": "Services\\SubtaskService.cs",
+              "ToolTip": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Services\\SubtaskService.cs",
+              "RelativeToolTip": "Services\\SubtaskService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:42:30.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Services\\TicketService.cs",
+              "RelativeDocumentMoniker": "Services\\TicketService.cs",
+              "ToolTip": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Services\\TicketService.cs",
+              "RelativeToolTip": "Services\\TicketService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwCYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:25:36.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IModule.cs",
+              "DocumentMoniker": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\IModule.cs",
+              "RelativeDocumentMoniker": "IModule.cs",
+              "ToolTip": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\IModule.cs",
+              "RelativeToolTip": "IModule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T07:27:55.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T07:35:30.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserModule.cs",
+              "DocumentMoniker": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Modules\\UserModule.cs",
+              "RelativeDocumentMoniker": "Modules\\UserModule.cs",
+              "ToolTip": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Modules\\UserModule.cs",
+              "RelativeToolTip": "Modules\\UserModule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T00:01:33.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TicketModule.cs",
+              "DocumentMoniker": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Modules\\TicketModule.cs",
+              "RelativeDocumentMoniker": "Modules\\TicketModule.cs",
+              "ToolTip": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Modules\\TicketModule.cs",
+              "RelativeToolTip": "Modules\\TicketModule.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:26:22.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SubtaskModule.cs",
+              "DocumentMoniker": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Modules\\SubtaskModule.cs",
+              "RelativeDocumentMoniker": "Modules\\SubtaskModule.cs",
+              "ToolTip": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Modules\\SubtaskModule.cs",
+              "RelativeToolTip": "Modules\\SubtaskModule.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:43:14.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjectModule.cs",
+              "DocumentMoniker": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Modules\\ProjectModule.cs",
+              "RelativeDocumentMoniker": "Modules\\ProjectModule.cs",
+              "ToolTip": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Modules\\ProjectModule.cs",
+              "RelativeToolTip": "Modules\\ProjectModule.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T07:37:10.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HealthModule.cs",
+              "DocumentMoniker": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Modules\\HealthModule.cs",
+              "RelativeDocumentMoniker": "Modules\\HealthModule.cs",
+              "ToolTip": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Modules\\HealthModule.cs",
+              "RelativeToolTip": "Modules\\HealthModule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T07:27:59.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "users.cs",
+              "DocumentMoniker": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Models\\users.cs",
+              "RelativeDocumentMoniker": "Models\\users.cs",
+              "ToolTip": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Models\\users.cs",
+              "RelativeToolTip": "Models\\users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T20:49:51.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TicketTask.cs",
+              "DocumentMoniker": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Models\\TicketTask.cs",
+              "RelativeDocumentMoniker": "Models\\TicketTask.cs",
+              "ToolTip": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Models\\TicketTask.cs",
+              "RelativeToolTip": "Models\\TicketTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T07:27:42.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TicketDto.cs",
+              "DocumentMoniker": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Models\\TicketDto.cs",
+              "RelativeDocumentMoniker": "Models\\TicketDto.cs",
+              "ToolTip": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Models\\TicketDto.cs",
+              "RelativeToolTip": "Models\\TicketDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:24:38.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TicketAssignmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Models\\TicketAssignmentDto.cs",
+              "RelativeDocumentMoniker": "Models\\TicketAssignmentDto.cs",
+              "ToolTip": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Models\\TicketAssignmentDto.cs",
+              "RelativeToolTip": "Models\\TicketAssignmentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:36:04.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Models\\Ticket.cs",
+              "RelativeToolTip": "Models\\Ticket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T07:27:44.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SubtaskDto.cs",
+              "DocumentMoniker": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Models\\SubtaskDto.cs",
+              "RelativeDocumentMoniker": "Models\\SubtaskDto.cs",
+              "ToolTip": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Models\\SubtaskDto.cs",
+              "RelativeToolTip": "Models\\SubtaskDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:41:16.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "Models\\Project.cs",
+              "ToolTip": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Models\\Project.cs",
+              "RelativeToolTip": "Models\\Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T20:43:38.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AssignUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Models\\AssignUserDto.cs",
+              "RelativeDocumentMoniker": "Models\\AssignUserDto.cs",
+              "ToolTip": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Models\\AssignUserDto.cs",
+              "RelativeToolTip": "Models\\AssignUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:29:25.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TicketDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Data\\TicketDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\TicketDbContext.cs",
+              "ToolTip": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Data\\TicketDbContext.cs",
+              "RelativeToolTip": "Data\\TicketDbContext.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T07:26:17.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Data\\SeedData.cs",
+              "RelativeToolTip": "Data\\SeedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T07:26:04.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ticketapi.csproj",
+              "DocumentMoniker": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\ticketapi.csproj",
+              "RelativeDocumentMoniker": "ticketapi.csproj",
+              "ToolTip": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\ticketapi.csproj",
+              "RelativeToolTip": "ticketapi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-22T21:35:01.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TicketDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Data\\Migrations\\TicketDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\TicketDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\Data\\Migrations\\TicketDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Data\\Migrations\\TicketDbContextModelSnapshot.cs",
+              "ViewState": "AQIAALQAAAAAAAAAAAAwwNAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T20:48:01.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAABcAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-22T20:53:11.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\nipun\\Downloads\\Interview-test-main\\Interview-test-main\\ticketapi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T20:52:22.588Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+.page-banner {
+  background: linear-gradient(to right, #00dbde, #fc00ff);
+  padding: 40px 20px;
+  color: white;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+
+  h2 {
+    font-size: 2.5rem;
+    margin: 0;
+  }
+
+  p {
+    font-size: 1.2rem;
+    margin-top: 10px;
+  }
+}
+
+.summary-cards {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+  gap: 30px;
+
+  .card {
+    background: white;
+    padding: 30px 40px;
+    border-radius: 15px;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+
+    h3 {
+      font-size: 1.3rem;
+      margin-bottom: 10px;
+    }
+
+    p {
+      font-size: 2rem;
+      font-weight: bold;
+    }
+  }
+}

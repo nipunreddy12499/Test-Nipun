@@ -1,0 +1,9 @@
+<div class="projects-grid">
+  <div class="project-card" *ngFor="let project of projects">
+    <h3>{{ project.name }}</h3>
+    <p>Team Members:</p>
+    <ul>
+      <li *ngFor="let user of project.users">{{ user.name }}</li>
+    </ul>
+  </div>
+</div>
