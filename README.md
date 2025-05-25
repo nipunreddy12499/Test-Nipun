@@ -108,4 +108,3 @@ npm run start
 - Ensure modular design principles for **both backend and frontend**.
 - Use **best practices** for database interactions and API structuring.
 
-Happy coding! 🚀
